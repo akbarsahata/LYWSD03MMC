@@ -9,7 +9,7 @@ SERVICE_UUID_181A = "0000181a-0000-1000-8000-00805f9b34fb"
 KNOWN_SENSORS = {
     # optional: real MAC from Telink UI if you want to filter later
     "A4:C1:38:E2:3C:8B": "Computer Room",
-    "A4:C1:38:E9:04:00": "Living Room",
+    "A4:C1:38:E9:04:98": "Living Room",
 }
 
 def parse_atc_payload(data: bytes):
